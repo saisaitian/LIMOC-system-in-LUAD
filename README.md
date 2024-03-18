@@ -4,12 +4,4 @@ This repository contains training data and code related to a study on LIMOC-syst
 ## Directory Structure:
 **KIRC-MoS-code.R:** The original R code for the generate the following results. 
 
-**InputData:** Contains the input datasets required to run the analysis.
-
-**Figure1, Figure2, ...:** Directories for saving generated figures.
-
-**Tables:** Directory for saving output tables.
-
-## Prerequisites
-Ensure you have R and the following packages installed:
-MOVICS,  Install "MOVICS" via [its GitHub page](https://github.com/xlucpu/MOVICS).
+**Training_LUAD_tcga.zip:** Contains the training datasets required to run the analysis. Please extract it and load it into R.
